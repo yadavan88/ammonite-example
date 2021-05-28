@@ -1,0 +1,6 @@
+*.class
+target/
+.metals
+.vscode
+.DS_Store
+.ammonite
