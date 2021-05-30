@@ -13,5 +13,5 @@ How to execute?
 
 Prerequisite
 - Need Ammonite 2.2.0
-- For newer versions, need to change the code `@doc("Pass continent code")` to `@args(doc="Pass continent code")` 
+- For newer versions, need to change the code `@doc("Pass continent code")` to `@arg(doc="Pass continent code")` 
 - Can use coursier to install and manage ammonite. Coursier cheatsheet available [here](https://github.com/yadavan88/coursier-cheatsheets) 
