@@ -4,7 +4,7 @@ For learning
 
 - Downloads a file using upicke
 - Parse the JSON contents of the file
-- Filter country by input value for the continent
+- Filter country by input value for the continent and only countries with english as language
 - Write the filtered content as JSON file using amm-ops
 
 
